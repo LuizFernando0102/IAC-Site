@@ -70,6 +70,14 @@ main{
 	padding-top: 180px;
 }
 
+#pg2{
+	width: 60%;
+	height: 1500px;
+	background-color: #FFF;
+	float: left;
+	padding-top: 50px;
+}
+
 h3{
 	color: #000000;
 	font-size: 2em;
@@ -143,6 +151,23 @@ p{
 	height: 2430px;
 	background-color: #F3F3F3;
 	float: left;
+	overflow-y: hidden;
+}
+
+.ladopg1 {
+	width: 20%;
+	height: 2750px;
+	background-color: #F3F3F3;
+	float: left;
+	overflow-y: hidden;
+}
+
+.ladopg2{
+	width: 20%;
+	height: 1600px;
+	background-color: #F3F3F3;
+	float: left;
+	overflow-y: hidden;
 }
 
 footer{
